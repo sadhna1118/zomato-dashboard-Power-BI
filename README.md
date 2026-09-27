@@ -1,11 +1,18 @@
 # 🍽️ Zomato Business Intelligence & Restaurant Analytics Dashboard
 
+[![Live Dashboard](https://img.shields.io/badge/Live%20Demo-View%20Power%20BI%20Report-E23744?style=for-the-badge&logo=powerbi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiMWVjMGRmNTctNWQ1NS00ZTQ1LWIwNzktOTUyNzZlZTMyYzRkIiwidCI6ImQxMzk2ZmYyLTM2MzYtNGI3MS1hZTAzLWI5NGU5M2UzOWEzYSJ9)
 [![Power BI](https://img.shields.io/badge/Power%20BI-Desktop%20%26%20Service-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![DAX](https://img.shields.io/badge/DAX-Data%20Analysis%20Expressions-0078D4?style=for-the-badge)](https://learn.microsoft.com/en-us/dax/)
 [![Power Query](https://img.shields.io/badge/ETL-Power%20Query-blue?style=for-the-badge)](https://powerbi.microsoft.com/)
 [![Zomato](https://img.shields.io/badge/Industry-Food%20%26%20Beverage%20Analytics-E23744?style=for-the-badge&logo=zomato&logoColor=white)](https://www.zomato.com/)
 
 A comprehensive **Zomato Restaurant Business Intelligence Dashboard** developed in **Microsoft Power BI**. This project analyzes multi-city restaurant listings, dining trends, pricing dynamics, online delivery adoption, and customer rating distributions to uncover strategic insights for food & beverage business stakeholders and restaurant operators.
+
+---
+
+### 🌐 Live Interactive Power BI Report
+Click below to interact with the live published Power BI dashboard directly in your browser:  
+👉 **[🔗 Launch Live Zomato Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWVjMGRmNTctNWQ1NS00ZTQ1LWIwNzktOTUyNzZlZTMyYzRkIiwidCI6ImQxMzk2ZmYyLTM2MzYtNGI3MS1hZTAzLWI5NGU5M2UzOWEzYSJ9)**
 
 ---
 
@@ -107,17 +114,17 @@ CALCULATE(
 
 ## 🚀 How to Open and Explore This Dashboard
 
-### Prerequisites
-* [Microsoft Power BI Desktop](https://powerbi.microsoft.com/desktop/) (Free Download)
+### Option 1: Instant Browser Live View (Recommended)
+You can explore the live, interactive Power BI report directly in your browser without installing software:  
+👉 **[Open Live Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMWVjMGRmNTctNWQ1NS00ZTQ1LWIwNzktOTUyNzZlZTMyYzRkIiwidCI6ImQxMzk2ZmYyLTM2MzYtNGI3MS1hZTAzLWI5NGU5M2UzOWEzYSJ9)**
 
-### Steps to Run:
-1. Clone or download this repository:
+### Option 2: Power BI Desktop (.pbix)
+1. Download [Microsoft Power BI Desktop](https://powerbi.microsoft.com/desktop/) (Free).
+2. Clone this repository:
    ```bash
    git clone https://github.com/sadhna1118/zomato-dashboard-Power-BI.git
    ```
-2. Open the file `sadhna zomato dashboard (2).pbix` in Power BI Desktop.
-3. Use the interactive slicers on the left/top to filter by City, Cuisine, or Price Band.
-4. Interact with visuals to cross-filter across all dashboard components in real time.
+3. Open `sadhna zomato dashboard (2).pbix` in Power BI Desktop to inspect the data model, DAX formulas, and visuals.
 
 ---
 
@@ -127,6 +134,7 @@ CALCULATE(
 • Engineered an interactive Zomato Restaurant Analytics Dashboard in Microsoft Power BI, modeling multi-city food & beverage listing datasets.
 • Implemented robust Power Query ETL pipelines and authored custom DAX measures (AOV, Rating Distribution, % Online Delivery adoption) for dynamic slice-and-dice reporting.
 • Uncovered actionable hospitality insights: identified that online-delivery-enabled outlets generated 2.4x higher customer review engagement and evaluated cuisine pricing elasticity across budget and luxury segments.
+• Published Live Report: https://app.powerbi.com/view?r=eyJrIjoiMWVjMGRmNTctNWQ1NS00ZTQ1LWIwNzktOTUyNzZlZTMyYzRkIiwidCI6ImQxMzk2ZmYyLTM2MzYtNGI3MS1hZTAzLWI5NGU5M2UzOWEzYSJ9
 ```
 
 ---
